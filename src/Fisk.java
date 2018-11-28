@@ -4,6 +4,7 @@ public class Fisk {
         for (int i = 0; i < 20 ; i++) {
             for (int j = 0; j < 20 ; j++) {
                 System.out.println("HEJ");
+                System.out.println("jhadskajsklasid aoisdjhj kshdaljksh aklslaksjdas daiæshd akæjsd haslkdja s");
 
             }
 

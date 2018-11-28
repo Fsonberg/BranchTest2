@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Random ændring");
         System.out.println("New Branch random ændring");
         RibersShoutOut gangster = new RibersShoutOut(10);
+
+        gangster.swear();
     }
 }

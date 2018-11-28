@@ -6,4 +6,10 @@ public class RibersShoutOut {
             System.out.println("WHAT UP G!!");
         }
     }
+
+    public void swear() {
+        System.out.println("fuck");
+        System.out.println("shit");
+        System.out.println("cunt shit fuck");
+    }
 }

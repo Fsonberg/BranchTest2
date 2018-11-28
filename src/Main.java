@@ -7,5 +7,7 @@ public class Main {
         RibersShoutOut gangster = new RibersShoutOut(10);
         Fisk n = new Fisk();
         n.h();
+
+        gangster.swear();
     }
 }
